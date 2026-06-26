@@ -13,11 +13,15 @@ I am interested in Artificial Intelligence, Machine Learning, Deep Learning, Dat
 
 ## Featured Projects
 
-### Dual-CNN Region-Level Feature Fusion for Image Captioning Using Transformer Decoder
+
+### [Dual-CNN Region-Level Feature Fusion for Image Captioning Using Transformer Decoder](https://github.com/Marazhossen1/image-captioning-transformer)
 Developed an image captioning approach combining Computer Vision and Natural Language Processing using CNN-based visual feature extraction and Transformer decoder architecture.
 
-### Customer Segmentation Using Clustering Algorithms on RFM Features
+### [Customer Segmentation Using Clustering Algorithms on RFM Features](https://github.com/Marazhossen1/customer-segmentation-rfm-clustering)
 Developed a customer segmentation pipeline using RFM features and compared K-means, DBSCAN, Hierarchical Clustering, and Spectral Clustering. Applied PCA, t-SNE, Random Forest, and SHAP explainability.
+
+### [Optical Character Recognition Using CNN and Transfer Learning](https://github.com/Marazhossen1/optical-character-recognition-cnn)
+Developed an OCR-based character classification project using CNN and transfer learning models including Custom CNN, VGG19, DenseNet121, ResNet50, MobileNetV2, and EfficientNetB7.
 
 ## Publication
 
